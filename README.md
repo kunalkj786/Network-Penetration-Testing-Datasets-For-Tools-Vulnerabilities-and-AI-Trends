@@ -3,7 +3,7 @@ This repository contains three CSV dataset files for Penetration Testing Tools, 
 
 ## Detailed Description:
 
-# 1. Pentesting Tools Dataset
+### 1. Pentesting Tools Dataset
 
 (I) **Overview and Composition:**
 
@@ -24,7 +24,7 @@ The dataset is predominantly Linux-centric, reflecting the industry standard ope
   ◦ **supported_languages:** A listing of programming languages supported by the tool (e.g., for scripting extensions). Note: This field contains null values for binary-only tools.
 
 
-# 2. Common Vulnerabilities Dataset
+### 2. Common Vulnerabilities Dataset
 
 (I) **Overview and Composition:**
 
@@ -54,7 +54,7 @@ This dataset (Vulnerabilities_Dataset.csv) constitutes the structural backbone f
   ◦ **business_impact** The potential consequence to business operations or continuity.
 
 
-# 3. AI Trends in Cybersecurity Dataset (Prompts)
+### 3. AI Trends in Cybersecurity Dataset (Prompts)
 
 (I) **Overview and Composition:**
 
